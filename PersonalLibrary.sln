@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalLibrary", "PersonalLibrary\PersonalLibrary.csproj", "{4AE8D80B-1C88-45BD-BFCA-07B167B8E194}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadeaLib", "PersonalLibrary\GadeaLib.csproj", "{4AE8D80B-1C88-45BD-BFCA-07B167B8E194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{06773D03-168E-4FE8-90AA-B230050BBB58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4AE8D80B-1C88-45BD-BFCA-07B167B8E194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE8D80B-1C88-45BD-BFCA-07B167B8E194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE8D80B-1C88-45BD-BFCA-07B167B8E194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06773D03-168E-4FE8-90AA-B230050BBB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06773D03-168E-4FE8-90AA-B230050BBB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06773D03-168E-4FE8-90AA-B230050BBB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06773D03-168E-4FE8-90AA-B230050BBB58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
